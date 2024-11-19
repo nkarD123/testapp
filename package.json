@@ -9,8 +9,7 @@
     "start": "node dist/main.js"
   },
   "engines": {
-    "npm": ">=8.0.0",
-    "node": ">=20.0.0"
+    "node": "20.x"
   },
   "keywords": [],
   "author": "",
